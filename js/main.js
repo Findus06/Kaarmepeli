@@ -33,6 +33,10 @@ gen_food();
 
 document.addEventListener("keydown", change_direction);
 
+function newFunction() {
+  return "2d";
+}
+
 // main function called repeatedly to keep the game running
 function main() {
 
